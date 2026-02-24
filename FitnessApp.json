@@ -1,0 +1,331 @@
+{
+  "levels": [
+    {
+      "level": "Beginner",
+      "workouts": [
+        {
+          "muscleGroup": "Chest",
+          "warmUp": {
+            "durationMinutes": 8,
+            "activities": [
+              "Arm circles",
+              "Wall push ups",
+              "Shoulder rolls",
+              "Light stretching"
+            ]
+          },
+          "exercises": [
+            {
+              "id": 1,
+              "name": "Wall Push Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 2,
+              "name": "Knee Push Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 3,
+              "name": "Push Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 10
+            },
+            {
+              "id": 4,
+              "name": "Chest Fly",
+              "equipment": "Dumbbell",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 5,
+              "name": "Incline Push Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 6,
+              "name": "Resistance Band Press",
+              "equipment": "Band",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 7,
+              "name": "Isometric Chest Hold",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 8,
+              "name": "Light Dumbbell Press",
+              "equipment": "Dumbbell",
+              "sets": 3,
+              "reps": 12
+            }
+          ],
+          "coolDown": {
+            "durationMinutes": 7,
+            "activities": [
+              "Chest stretch",
+              "Shoulder stretch",
+              "Deep breathing",
+              "Relaxed posture"
+            ]
+          }
+        },
+        {
+          "muscleGroup": "Legs",
+          "warmUp": {
+            "durationMinutes": 10,
+            "activities": [
+              "Jumping jacks",
+              "Hip circles",
+              "Leg swings",
+              "Light jogging"
+            ]
+          },
+          "exercises": [
+            {
+              "id": 9,
+              "name": "Bodyweight Squats",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 10,
+              "name": "Half Squats",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 11,
+              "name": "Lunges",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 12,
+              "name": "Step Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 13,
+              "name": "Wall Sit",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 14,
+              "name": "Calf Raises",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 20
+            },
+            {
+              "id": 15,
+              "name": "Glute Bridge",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 16,
+              "name": "Side Leg Raises",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 12
+            }
+          ],
+          "coolDown": {
+            "durationMinutes": 8,
+            "activities": [
+              "Quad stretch",
+              "Hamstring stretch",
+              "Calf stretch",
+              "Slow breathing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "level": "Intermediate",
+      "workouts": [
+        {
+          "muscleGroup": "Back",
+          "warmUp": {
+            "durationMinutes": 8,
+            "activities": [
+              "Band pull apart",
+              "Arm swings",
+              "Light rowing"
+            ]
+          },
+          "exercises": [
+            {
+              "id": 30,
+              "name": "Lat Pulldown",
+              "equipment": "Machine",
+              "sets": 4,
+              "reps": 12
+            },
+            {
+              "id": 31,
+              "name": "Pull Ups",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 8
+            },
+            {
+              "id": 32,
+              "name": "Seated Cable Row",
+              "equipment": "Machine",
+              "sets": 4,
+              "reps": 10
+            },
+            {
+              "id": 33,
+              "name": "Barbell Row",
+              "equipment": "Barbell",
+              "sets": 4,
+              "reps": 10
+            },
+            {
+              "id": 34,
+              "name": "Single Arm Dumbbell Row",
+              "equipment": "Dumbbell",
+              "sets": 3,
+              "reps": 12
+            },
+            {
+              "id": 35,
+              "name": "Face Pulls",
+              "equipment": "Cable",
+              "sets": 3,
+              "reps": 15
+            },
+            {
+              "id": 36,
+              "name": "Inverted Rows",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 10
+            },
+            {
+              "id": 37,
+              "name": "Back Extension",
+              "equipment": "Machine",
+              "sets": 3,
+              "reps": 15
+            }
+          ],
+          "coolDown": {
+            "durationMinutes": 7,
+            "activities": [
+              "Lat stretch",
+              "Lower back stretch",
+              "Breathing exercises"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "level": "Advanced",
+      "workouts": [
+        {
+          "muscleGroup": "Full Body",
+          "warmUp": {
+            "durationMinutes": 12,
+            "activities": [
+              "Jump rope",
+              "Dynamic stretching",
+              "Mobility drills"
+            ]
+          },
+          "exercises": [
+            {
+              "id": 60,
+              "name": "Deadlift",
+              "equipment": "Barbell",
+              "sets": 5,
+              "reps": 5
+            },
+            {
+              "id": 61,
+              "name": "Squats",
+              "equipment": "Barbell",
+              "sets": 5,
+              "reps": 5
+            },
+            {
+              "id": 62,
+              "name": "Bench Press",
+              "equipment": "Barbell",
+              "sets": 4,
+              "reps": 8
+            },
+            {
+              "id": 63,
+              "name": "Pull Ups",
+              "equipment": "Bodyweight",
+              "sets": 4,
+              "reps": 10
+            },
+            {
+              "id": 64,
+              "name": "Overhead Press",
+              "equipment": "Barbell",
+              "sets": 4,
+              "reps": 8
+            },
+            {
+              "id": 65,
+              "name": "Farmer Walk",
+              "equipment": "Dumbbell",
+              "sets": 4,
+              "reps": 30
+            },
+            {
+              "id": 66,
+              "name": "Box Jumps",
+              "equipment": "Box",
+              "sets": 4,
+              "reps": 10
+            },
+            {
+              "id": 67,
+              "name": "Hanging Leg Raises",
+              "equipment": "Bodyweight",
+              "sets": 4,
+              "reps": 12
+            }
+          ],
+          "coolDown": {
+            "durationMinutes": 10,
+            "activities": [
+              "Full body stretching",
+              "Foam rolling",
+              "Meditative breathing"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
