@@ -326,6 +326,90 @@
           }
         }
       ]
+    },
+    {
+      "level": "Yoga",
+      "workouts": [
+        {
+          "muscleGroup": "Full Body Yoga",
+          "warmUp": {
+            "durationMinutes": 10,
+            "activities": [
+              "Neck rolls",
+              "Shoulder rotations",
+              "Gentle spinal twists",
+              "Deep breathing"
+            ]
+          },
+          "exercises": [
+            {
+              "id": 100,
+              "name": "Mountain Pose",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 60
+            },
+            {
+              "id": 101,
+              "name": "Downward Dog",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 45
+            },
+            {
+              "id": 102,
+              "name": "Warrior I",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 103,
+              "name": "Warrior II",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 104,
+              "name": "Tree Pose",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 105,
+              "name": "Seated Forward Bend",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 45
+            },
+            {
+              "id": 106,
+              "name": "Bridge Pose",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 30
+            },
+            {
+              "id": 107,
+              "name": "Child's Pose",
+              "equipment": "Bodyweight",
+              "sets": 3,
+              "reps": 60
+            }
+          ],
+          "coolDown": {
+            "durationMinutes": 8,
+            "activities": [
+              "Supine twist",
+              "Leg relaxation",
+              "Mindful breathing",
+              "Savasana"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
