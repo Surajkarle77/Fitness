@@ -1,0 +1,225 @@
+{
+  "fitness_app_data": {
+    "version": "2.0",
+    "last_updated": "2026-03-07",
+    "units": {
+      "duration": "seconds",
+      "rest": "seconds",
+      "calories": "kcal"
+    },
+    "categories": [
+      {
+        "id": "fat_loss",
+        "title": "Fat Loss HIIT",
+        "description": "High intensity cardio workouts to burn fat",
+        "difficulty": "beginner-intermediate",
+        "exercises": ["jumping_jacks","mountain_climbers","burpees","high_knees","skaters"]
+      },
+      {
+        "id": "strength",
+        "title": "Strength Training",
+        "description": "Bodyweight strength workouts",
+        "difficulty": "beginner-advanced",
+        "exercises": ["pushups","squats","plank","tricep_dips","diamond_pushups"]
+      },
+      {
+        "id": "core",
+        "title": "Core Workout",
+        "description": "Exercises targeting abs and stability",
+        "difficulty": "beginner-intermediate",
+        "exercises": ["plank","side_plank","bird_dog","superman","glute_bridge"]
+      },
+      {
+        "id": "mobility",
+        "title": "Mobility & Recovery",
+        "description": "Improve flexibility and joint movement",
+        "difficulty": "all",
+        "exercises": ["child_pose","cobra_pose","downward_dog","walking_lunges"]
+      },
+      {
+        "id": "yoga",
+        "title": "Yoga",
+        "description": "Breathing and flexibility focused sessions",
+        "difficulty": "beginner-intermediate",
+        "exercises": ["downward_dog","cobra_pose","warrior2","tree_pose","child_pose"]
+      },
+      {
+        "id": "quick_workout",
+        "title": "5 Minute Quick Workout",
+        "description": "Short daily workout routines",
+        "difficulty": "beginner",
+        "exercises": ["jumping_jacks","squats","pushups","plank"]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "jumping_jacks",
+        "name": "Jumping Jacks",
+        "difficulty": "beginner",
+        "primary_muscles": ["full_body"],
+        "equipment": "none",
+        "duration_sec": 45,
+        "reps": 0,
+        "rest_time_sec": 15,
+        "estimated_calories": 8,
+        "gif_url": "https://cdn.yourapp.com/exercises/jumping_jacks.gif"
+      },
+      {
+        "id": "mountain_climbers",
+        "name": "Mountain Climbers",
+        "difficulty": "intermediate",
+        "primary_muscles": ["core","legs"],
+        "equipment": "none",
+        "duration_sec": 30,
+        "reps": 0,
+        "rest_time_sec": 15,
+        "estimated_calories": 10,
+        "gif_url": "https://cdn.yourapp.com/exercises/mountain_climbers.gif"
+      },
+      {
+        "id": "burpees",
+        "name": "Burpees",
+        "difficulty": "advanced",
+        "primary_muscles": ["full_body"],
+        "equipment": "none",
+        "duration_sec": 0,
+        "reps": 12,
+        "rest_time_sec": 20,
+        "estimated_calories": 12,
+        "gif_url": "https://cdn.yourapp.com/exercises/burpees.gif"
+      },
+      {
+        "id": "pushups",
+        "name": "Push Ups",
+        "difficulty": "beginner",
+        "primary_muscles": ["chest","arms"],
+        "equipment": "none",
+        "duration_sec": 0,
+        "reps": 15,
+        "rest_time_sec": 30,
+        "estimated_calories": 7,
+        "gif_url": "https://cdn.yourapp.com/exercises/pushups.gif"
+      },
+      {
+        "id": "squats",
+        "name": "Bodyweight Squats",
+        "difficulty": "beginner",
+        "primary_muscles": ["legs","glutes"],
+        "equipment": "none",
+        "duration_sec": 0,
+        "reps": 20,
+        "rest_time_sec": 30,
+        "estimated_calories": 9,
+        "gif_url": "https://cdn.yourapp.com/exercises/squats.gif"
+      },
+      {
+        "id": "plank",
+        "name": "Plank",
+        "difficulty": "intermediate",
+        "primary_muscles": ["core"],
+        "equipment": "none",
+        "duration_sec": 60,
+        "reps": 0,
+        "rest_time_sec": 30,
+        "estimated_calories": 6,
+        "gif_url": "https://cdn.yourapp.com/exercises/plank.gif"
+      },
+      {
+        "id": "side_plank",
+        "name": "Side Plank",
+        "difficulty": "intermediate",
+        "primary_muscles": ["core"],
+        "equipment": "none",
+        "duration_sec": 30,
+        "reps": 0,
+        "rest_time_sec": 20,
+        "estimated_calories": 5,
+        "gif_url": "https://cdn.yourapp.com/exercises/side_plank.gif"
+      },
+      {
+        "id": "bird_dog",
+        "name": "Bird Dog",
+        "difficulty": "beginner",
+        "primary_muscles": ["core","back"],
+        "equipment": "none",
+        "duration_sec": 45,
+        "reps": 0,
+        "rest_time_sec": 15,
+        "estimated_calories": 4,
+        "gif_url": "https://cdn.yourapp.com/exercises/bird_dog.gif"
+      },
+      {
+        "id": "glute_bridge",
+        "name": "Glute Bridge",
+        "difficulty": "beginner",
+        "primary_muscles": ["glutes"],
+        "equipment": "none",
+        "duration_sec": 0,
+        "reps": 15,
+        "rest_time_sec": 20,
+        "estimated_calories": 6,
+        "gif_url": "https://cdn.yourapp.com/exercises/glute_bridge.gif"
+      },
+      {
+        "id": "downward_dog",
+        "name": "Downward Dog",
+        "difficulty": "beginner",
+        "primary_muscles": ["hamstrings","shoulders"],
+        "equipment": "none",
+        "duration_sec": 45,
+        "reps": 0,
+        "rest_time_sec": 10,
+        "estimated_calories": 3,
+        "gif_url": "https://cdn.yourapp.com/exercises/downward_dog.gif"
+      },
+      {
+        "id": "cobra_pose",
+        "name": "Cobra Pose",
+        "difficulty": "beginner",
+        "primary_muscles": ["lower_back"],
+        "equipment": "none",
+        "duration_sec": 30,
+        "reps": 0,
+        "rest_time_sec": 10,
+        "estimated_calories": 2,
+        "gif_url": "https://cdn.yourapp.com/exercises/cobra_pose.gif"
+      },
+      {
+        "id": "warrior2",
+        "name": "Warrior II",
+        "difficulty": "intermediate",
+        "primary_muscles": ["legs","core"],
+        "equipment": "none",
+        "duration_sec": 40,
+        "reps": 0,
+        "rest_time_sec": 10,
+        "estimated_calories": 4,
+        "gif_url": "https://cdn.yourapp.com/exercises/warrior2.gif"
+      },
+      {
+        "id": "tree_pose",
+        "name": "Tree Pose",
+        "difficulty": "intermediate",
+        "primary_muscles": ["balance","core"],
+        "equipment": "none",
+        "duration_sec": 30,
+        "reps": 0,
+        "rest_time_sec": 10,
+        "estimated_calories": 3,
+        "gif_url": "https://cdn.yourapp.com/exercises/tree_pose.gif"
+      },
+      {
+        "id": "child_pose",
+        "name": "Child Pose",
+        "difficulty": "beginner",
+        "primary_muscles": ["back","hips"],
+        "equipment": "none",
+        "duration_sec": 60,
+        "reps": 0,
+        "rest_time_sec": 10,
+        "estimated_calories": 2,
+        "gif_url": "https://cdn.yourapp.com/exercises/child_pose.gif"
+      }
+    ]
+  }
+}
