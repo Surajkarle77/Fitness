@@ -2,6 +2,7 @@
   "fitness_app_data": {
     "version": "2.0",
     "last_updated": "2026-03-07",
+    "img":"https://ik.imagekit.io/5k06zgsjt/exercise_image.jpg?updatedAt=1773207270138",
     "units": {
       "duration": "seconds",
       "rest": "seconds",
