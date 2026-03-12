@@ -14,42 +14,48 @@
         "title": "Fat Loss HIIT",
         "description": "High intensity cardio workouts to burn fat",
         "difficulty": "beginner-intermediate",
-        "exercises": ["jumping_jacks","mountain_climbers","burpees","high_knees","skaters"]
+        "exercises": ["jumping_jacks","mountain_climbers","burpees","high_knees","skaters"],
+        "img":"https://ik.imagekit.io/5k06zgsjt/hiit_cardio_burn.png"
       },
       {
         "id": "strength",
         "title": "Strength Training",
         "description": "Bodyweight strength workouts",
         "difficulty": "beginner-advanced",
-        "exercises": ["pushups","squats","plank","tricep_dips","diamond_pushups"]
+        "exercises": ["pushups","squats","plank","tricep_dips","diamond_pushups"],
+        "img":"https://ik.imagekit.io/5k06zgsjt/workout_first_img.png"
       },
       {
         "id": "core",
         "title": "Core Workout",
         "description": "Exercises targeting abs and stability",
         "difficulty": "beginner-intermediate",
-        "exercises": ["plank","side_plank","bird_dog","superman","glute_bridge"]
+        "exercises": ["plank","side_plank","bird_dog","superman","glute_bridge"],
+        "img":""
       },
       {
         "id": "mobility",
         "title": "Mobility & Recovery",
         "description": "Improve flexibility and joint movement",
         "difficulty": "all",
-        "exercises": ["child_pose","cobra_pose","downward_dog","walking_lunges"]
+        "exercises": ["child_pose","cobra_pose","downward_dog","walking_lunges"],
+        "img":""
       },
       {
         "id": "yoga",
         "title": "Yoga",
         "description": "Breathing and flexibility focused sessions",
         "difficulty": "beginner-intermediate",
-        "exercises": ["downward_dog","cobra_pose","warrior2","tree_pose","child_pose"]
+        "exercises": ["downward_dog","cobra_pose","warrior2","tree_pose","child_pose"],
+        "img":"https://ik.imagekit.io/5k06zgsjt/yoga_img.png"
       },
       {
         "id": "quick_workout",
         "title": "5 Minute Quick Workout",
         "description": "Short daily workout routines",
         "difficulty": "beginner",
-        "exercises": ["jumping_jacks","squats","pushups","plank"]
+        "exercises": ["jumping_jacks","squats","pushups","plank"],
+        "img":""
       }
     ],
     "exercises": [
