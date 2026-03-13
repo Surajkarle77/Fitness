@@ -31,7 +31,7 @@
         "description": "Exercises targeting abs and stability",
         "difficulty": "beginner-intermediate",
         "exercises": ["plank","side_plank","bird_dog","superman","glute_bridge"],
-        "img":""
+        "img":"https://ik.imagekit.io/5k06zgsjt/core_workout.png"
       },
       {
         "id": "mobility",
